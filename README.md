@@ -4,7 +4,16 @@
 
 在此基础上修改https://github.com/treadpit/wx_calendar
 
-> https://github.com/treadpit/wx_calendar
+使用方法
+> json文件中注册```javascript
+  "usingComponents": {
+    "component-data": "../../../components/calender/calender"
+  }
+```
+>wxml中使用组件
+```html
+<component-data ></component-data>
+```
 
 
 #### 效果图
