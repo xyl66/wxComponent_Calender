@@ -1,8 +1,8 @@
-# wxComponent_Calender
+# wxComponent_Calender小程序日历组件
 
-### 小程序日历组件
 
-在此基础上修改https://github.com/treadpit/wx_calendar
+在小程序日历基础上修改  
+#### 源码地址https://github.com/treadpit/wx_calendar
 
 使用方法
 > json文件中注册
